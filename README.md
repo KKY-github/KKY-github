@@ -53,9 +53,9 @@
 
 ### 🚀 Key Projects
 
-- **[LocalFlow]** | 멀티채널 소셜 미디어 자동 포스팅 플랫폼  
+- **[LocalFlow](https://github.com/KKY-github/sns_project)** | 멀티채널 소셜 미디어 자동 포스팅 플랫폼  
   - Spring Boot, React, Docker, n8n 및 LLM 기반 API 자동화
-- **[Smart Traffic System]** | YOLO 및 비전 AI 기반 지능형 교통 감시 시스템  
+- **[Smart Traffic System](https://github.com/KKY-github/omecca_Project)** | YOLO 및 비전 AI 기반 지능형 교통 감시 시스템  
   - 시뮬레이터를 활용한 위험 및 교통 위반 실시간 감지
 
 ---
